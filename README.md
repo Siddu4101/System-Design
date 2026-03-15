@@ -19,6 +19,9 @@ A step-by-step guide to mastering system design.
 - Watch case studies: **ByteByteGo**, **Tech Dummies**
 
 ## 📋 Roadmap to Follow
-
-[Detailed Roadmap](guide/README.md)
+- [Detailed Roadmap](guide/README.md)
 ---
+
+## 🧩 Concepts
+
+### 1. [⚖️ Scaling](learning.systemdesign/scaling/README.md) 
