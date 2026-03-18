@@ -2,16 +2,15 @@
 
 Notes:
 
-<div style="text-align: center;">
-  <img src="./consistent-hashing-1.jpg"
-       alt="Consistent Hashing Diagram 1"
-       style="width:420px;height:auto;" />
-</div>
-<div style="text-align: center;">
-  <img src="./consistent-hashing-2.jpg"
-       alt="Consistent Hashing Diagram 2"
-       style="width:420px;height:auto;" />
-</div>
+<p align="center">
+
+  <img src="./consistent-hashing-1.jpg" alt="Consistent Hashing Diagram 1" style="width:420px;height:auto;"/>
+  <img src="./consistent-hashing-2.jpg" alt="Consistent Hashing Diagram 2" style="width:420px;height:auto;"/>
+</p>
+
+<p align="center">
+  <img src="./HorizontalAndVerticalScaling.jpg" alt="Horizontal vs Vertical Scaling Diagram" style="width:420px;height:auto;" />
+</p>
 
 > Consistent Hashing is a distributed systems technique used to distribute data across multiple servers in a way that **minimizes data movement** when servers are added or removed.
 
@@ -95,4 +94,3 @@ Instead of placing a server once on the ring, we place it multiple times using *
 - **Collision handling:** Handled by slightly moving points or using collections (like trees) in a single bucket.
 
 ---
-
