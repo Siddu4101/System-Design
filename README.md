@@ -24,4 +24,5 @@ A step-by-step guide to mastering system design.
 
 ## 🧩 Concepts
 
-### 1. [⚖️ Scaling](learning.systemdesign/scaling/README.md) 
+### 1. [⚖️ Scaling](learning.systemdesign/scaling/README.md)
+### 2. [🔁 Consistent Hashing](learning.systemdesign/consistentHashing/README.md)
