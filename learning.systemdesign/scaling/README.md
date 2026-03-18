@@ -1,10 +1,9 @@
 # 📈 Scaling in System Design
 
-<div style="text-align: center;">
-  <img src="./HorizontalAndVerticalScaling.jpg"
-       alt="Horizontal vs Vertical Scaling Diagram"
-       style="width:420px;height:auto;" />
-</div>
+<p align="center">
+  <img src="./HorizontalAndVerticalScaling.jpg" alt="Horizontal vs Vertical Scaling Diagram" style="width:420px;height:auto;" />
+</p>
+
 
 Designing scalable systems is all about handling **more load** without sacrificing **performance, reliability, or cost-efficiency**. Two foundational strategies are:
 
