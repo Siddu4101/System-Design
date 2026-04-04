@@ -29,3 +29,4 @@ A step-by-step guide to mastering system design.
 ### 3. [🌐 HTTP & HTTPS](learning.systemdesign/httpAndHttps/README.md)
 ### 4. [🌉 Network Models & How google.com works?](learning.systemdesign/networkModels/README.md)
 ### 5. [🧠 Cache](learning.systemdesign/cache/README.md)
+### 6. [💥 Thrashing](learning.systemdesign/thrashing/README.md)
