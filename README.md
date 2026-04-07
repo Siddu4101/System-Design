@@ -32,3 +32,4 @@ A step-by-step guide to mastering system design.
 ### 6. [💥 Thrashing](learning.systemdesign/thrashing/README.md)
 ### 7. [🧵 Program, Process & Thread](learning.systemdesign/programProcessThread/README.md)
 ### 8. [📂 Partitioning & Sharding](learning.systemdesign/partitioning-and-sharding/README.md)
+### 9. [🧪 Bloom Filter](learning.systemdesign/bloom-filter/README.md)
