@@ -33,3 +33,4 @@ A step-by-step guide to mastering system design.
 ### 7. [🧵 Program, Process & Thread](learning.systemdesign/programProcessThread/README.md)
 ### 8. [📂 Partitioning & Sharding](learning.systemdesign/partitioning-and-sharding/README.md)
 ### 9. [🧪 Bloom Filter](learning.systemdesign/bloom-filter/README.md)
+### 10. [🌐 Data Replication](learning.systemdesign/dataReplication/README.md)
