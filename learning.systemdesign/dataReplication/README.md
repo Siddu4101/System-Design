@@ -245,3 +245,4 @@ sequenceDiagram
     Primary-->>Client: Write Successful (Lower Latency than Sync)
     Replica2-->>Primary: ACK (Later)
 ```
+---
